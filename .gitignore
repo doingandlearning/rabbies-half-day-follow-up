@@ -1,0 +1,12 @@
+general_teaching/
+TEACHING_NOTES.md
+
+.DS_Store
+
+# Laravel demo codebase
+demo-codebase/vendor/
+demo-codebase/node_modules/
+demo-codebase/.env
+demo-codebase/storage/
+demo-codebase/bootstrap/cache/*.php
+demo-codebase/public/build/
