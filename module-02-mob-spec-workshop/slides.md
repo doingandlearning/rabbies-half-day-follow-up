@@ -48,13 +48,8 @@ Before we start writing: does everyone in the room understand what this story is
 
 Use `create-prd` as the starting point — same as Module 2 of the core day — but this time, answer its clarifying questions as a group, out loud, and capture the disagreements, not just the answers.
 
-<!-- pause -->
+[Direct link to the skills we explored on the core day](https://github.com/doingandlearning/ai-assisted-laravel-june-2026/tree/main/.github/skills)
 
-Watch for:
-
-- Places where two people in the room have different assumptions about what the story means
-- Edge cases someone raises that weren't in the original backlog description
-- Anything that turns out to be genuinely unclear — that's an **open question**, not something to quietly resolve by guessing
 
 <!-- end_slide -->
 
