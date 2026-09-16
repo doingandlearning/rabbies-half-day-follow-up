@@ -28,9 +28,6 @@ Three columns, filled in together:
 - **What hasn't** — what got tried once and dropped, or never tried
 - **Where the friction showed up** — prompting, review, trust in output, consistency across the team
 
-<!-- pause -->
-
-**Round the room or shared doc** — whichever is faster. Capture, don't debate yet.
 
 <!-- end_slide -->
 
