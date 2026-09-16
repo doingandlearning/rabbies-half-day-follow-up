@@ -36,7 +36,7 @@ One person drives — types, runs `create-prd`, generates output. Everyone else 
 
 ## The story
 
-*[Facilitator: state the agreed story here before the session, and paste or link its current backlog description/acceptance criteria into the shared doc now.]*
+https://github.com/doingandlearning/rabbies-half-day-follow-up/blob/main/module-02-mob-spec-workshop/exercises/ticket.md
 
 <!-- pause -->
 

@@ -1,11 +1,11 @@
 ## DEV-5815: New automated pre-departure email
 
-**Parent:** BAU 2026Q3 Priorities (DEV-4998)
-**Type:** Story | **Priority:** Medium | **Status:** Scoped
-**Sprint:** DEV Sprint 80-I
-**Reporter:** Benjamin Kinnard | **Assignee:** Unassigned
-**Labels:** Email, Internal
-**Attachment:** Pre-departure email 20260911.docx
+- **Parent:** BAU 2026Q3 Priorities (DEV-4998)
+- **Type:** Story | **Priority:** Medium | **Status:** Scoped
+- **Sprint:** DEV Sprint 80-I
+- **Reporter:** Benjamin Kinnard | **Assignee:** Unassigned
+- **Labels:** Email, Internal
+- **Attachment:** Pre-departure email 20260911.docx
 
 ### Background
 
